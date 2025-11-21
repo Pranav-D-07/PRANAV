@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+rapidfuzz
+shap
+joblib
